@@ -1,0 +1,16 @@
+{
+  "name": "wanderluhst",
+  "version": "(1.0.0)",
+  "description": "this is a full-stack web application using react.js, node.js, express.js, and mysql. It's a glassdoor-style review and commenting app for study/intern abroad programs.",
+  "main": "server.js",
+  "repository": "https://github.com/BlackMG27/wanderluhst.git",
+  "author": "Ogechi Ike",
+  "license": "MIT License",
+  "private": false,
+  "dependencies": {
+    "global": "^4.4.0",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}
